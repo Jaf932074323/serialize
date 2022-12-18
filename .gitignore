@@ -1,0 +1,15 @@
+﻿setenv.gitignore.bat
+
+*.pb.h
+*.pb.cc
+*.grpc.pb.h
+*.grpc.pb.cc
+
+*.ilk
+*.pdb
+*.aps
+
+build/
+
+bin/
+*.lnk
